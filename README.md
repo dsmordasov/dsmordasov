@@ -1,11 +1,13 @@
-### Welcome to my small showcase portfolio. 
+### Welcome to my github, in which I showcase examples of my work to show why I am the perfect hire for you.
 
-- My scientific computing work repos include:
-  - My BSc Thesis
-  - My MSc Thesis
+- Scientific computing:
+  - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)
+    - A Python scientific computing tool.
+  - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
+    - A set of Python scientific computing scripts.
  
 - Videogame development
-  - roguelike
+  - [My roguelike](https://github.com/dsmordasov/dmitrijs_roguelike)
 
 <!--
 **dsmordasov/dsmordasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

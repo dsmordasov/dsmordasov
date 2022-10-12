@@ -8,7 +8,7 @@
  
 - Videogame development
   - [The Ratcatcher](https://github.com/dsmordasov/dmitrijs_roguelike)
-    - A Python hobby roguelike, with game mechanics inspired by the classic `Rogue` game, and story based on the _Viktor Dyk's_ 'The Ratcatcher' novel. GitHub-deployed, Win/MacOS/Linux compatible. Uses NumPy, libtcod and PyInstaller packages. 
+    - A Python hobby roguelike, with game mechanics inspired by the classic **Rogue** game, and story based on the _Viktor Dyk's_ **The Ratcatcher** novel. GitHub-deployed, Win/MacOS/Linux compatible. Uses NumPy, libtcod and PyInstaller packages. 
 <!--
 **dsmordasov/dsmordasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

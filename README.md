@@ -1,6 +1,7 @@
 ### Welcome to my github, in which I showcase examples of my work and why I am the perfect hire for you.
 
 - Scientific computing:
+
 blah
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)
     - A Python scientific computing tool for the design of an airborne wind energy system. Uses NumPy, SciPy, Matplotlib (and seaborn) packages.

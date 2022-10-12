@@ -1,4 +1,4 @@
-### Welcome to my github, in which I showcase examples of my work.
+### Welcome to my github, in which I showcase examples of my work and why I am the perfect hire for you.
 
 - Scientific computing:
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)

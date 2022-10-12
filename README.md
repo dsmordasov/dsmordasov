@@ -4,7 +4,7 @@
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)
     - A Python scientific computing tool for the design of an airborne wind energy system. Uses NumPy, SciPy, Matplotlib (and seaborn) packages.
   - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
-    - A set of Python scientific computing scripts for running PyWakeEllipSys (CFD) and HAWC2S (BEM) simulations on a special wind turbine design on the DTU HPC cluster. Data analysis and visualisation included. Uses NumPy, Matplotlib and Xarray packages.
+    - A set of Python scientific computing scripts for running computational fluid dynamics (CFD) simulations on the DTU HPC cluster, for the investigation of a special wind turbine design and its performance in wind farms. Data analysis and visualisation included. Uses NumPy, Matplotlib and Xarray packages, along with PyWakeEllipSys CFD and HAWC2S aeroservoelastic code.
  
 - Videogame development
   - [The Ratcatcher](https://github.com/dsmordasov/dmitrijs_roguelike)

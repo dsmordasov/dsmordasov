@@ -2,13 +2,13 @@
 
 - Scientific computing:
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)
-    - A Python scientific computing tool.
+    - A Python scientific computing tool for the design of an airborne wind energy system.
   - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
-    - A set of Python scientific computing scripts.
+    - A set of Python scientific computing scripts for running PyWakeEllipSys (CFD) and HAWC2S (BEM) simulations on a special wind turbine design on the DTU HPC cluster. Data analysis and visualistion included.
  
 - Videogame development
   - [My roguelike](https://github.com/dsmordasov/dmitrijs_roguelike)
-
+    - A Python roguelike, based on the classic `Rogue` game, with story elements from Viktor Dyk's 'Krysař' novel. 
 <!--
 **dsmordasov/dsmordasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

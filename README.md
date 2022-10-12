@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my small showcase portfolio. 
+
+- My scientific computing work repos include:
+  - My BSc Thesis
+  - My MSc Thesis
+ 
+- Videogame development
+  - roguelike
 
 <!--
 **dsmordasov/dsmordasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,7 +14,7 @@
  
 - Videogame development:
   - [The Ratcatcher](https://github.com/dsmordasov/dmitrijs_roguelike)
-    - A hobby roguelike, with game mechanics inspired by the classic **Rogue** game.
+    - A hobby roguelike game, set in the story of the novel **The Ratcatcher** by _Viktor Dyk_.
     - :snake:Python (NumPy, libtcod and PyInstaller packages).
     - Objective-oriented programming, procedural level generation, own game engine, PyInstaller/GitHub-deployed for Win/MacOS/Linux compatibility.
 

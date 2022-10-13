@@ -4,7 +4,7 @@
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)
     - Design tool for the sizing of an airborne wind energy system of a Martian habitat.
     - :snake:Python (NumPy, SciPy, Matplotlib + seaborn packages).
-    - Computational modeling, optimisation.
+    - Computational modeling, optimisation, sexy flow diagram.
 
   - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
     - A set scientific computing scripts for running computational fluid dynamics (CFD) simulations on the DTU HPC cluster, for the investigation of a special wind turbine design and its performance in wind farms.

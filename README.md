@@ -9,7 +9,7 @@
   - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
     - A set scientific computing scripts for running computational fluid dynamics (CFD) simulations on the DTU HPC cluster, for the investigation of a special wind turbine design and its performance in wind farms.
     - :snake:Python (NumPy, Matplotlib and Xarray packages), along with PyWakeEllipSys CFD and HAWC2S aeroservoelastic code.
-    - Running CFD simulations on a Linux supercluster, data analysis and visualisation, insight extraction. 
+    - CFD simulation set-up and execution on a Linux supercluster, data analysis and visualisation, insight extraction. 
 
  
 - Videogame development

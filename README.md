@@ -12,7 +12,7 @@
     - CFD simulation set-up and execution on a Linux supercluster, data analysis and visualisation, insight extraction. 
 
  
-- Videogame development
+- Videogame development:
   - [The Ratcatcher](https://github.com/dsmordasov/dmitrijs_roguelike)
     - A hobby roguelike, with game mechanics inspired by the classic **Rogue** game.
     - :snake:Python (NumPy, libtcod and PyInstaller packages).

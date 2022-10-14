@@ -7,7 +7,7 @@
     - Computational modeling, optimisation, sexy flow diagram.
 
   - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
-    - A set of scripts for running computational fluid dynamics (CFD) simulations on the DTU HPC cluster, investigating a novel wind turbine design and its performance in wind farms.
+    - A set of scripts for running computational fluid dynamics (CFD) simulations on the DTU HPC cluster, investigating a novel wind turbine design for regulating wind turbine wakes and improving wind farm performance.
     - :snake:Python (NumPy, Matplotlib and Xarray packages), along with PyWakeEllipSys CFD and HAWC2S aeroservoelastic code.
     - CFD simulation set-up and execution on a Linux supercluster, data analysis and visualisation, insight extraction. 
 

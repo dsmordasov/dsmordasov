@@ -16,7 +16,7 @@
   - [The Ratcatcher](https://github.com/dsmordasov/dmitrijs_roguelike)
     - A hobby roguelike game, set in the story of the **The Ratcatcher** novel by _Viktor Dyk_.
     - :snake:Python (NumPy, libtcod and PyInstaller packages).
-    - Objective-oriented programming, procedural level generation, own game engine, game design. PyInstaller/GitHub-deployed for Win/MacOS/Linux compatibility.
+    - Objective-oriented programming, procedural level generation, own game engine, game design. Atomated PyInstaller/GitHub distribution deployment with Win/MacOS/Linux compatibility.
 
 <!--
 **dsmordasov/dsmordasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

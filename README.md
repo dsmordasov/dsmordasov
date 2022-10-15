@@ -1,9 +1,15 @@
 ### Welcome to my GitHub, in which I showcase examples of my work (i.e. why I am the perfect hire for you).
 
+- Data Science:
+  - [Drink and study](https://github.com/dsmordasov/ares_awesizer)
+    - An investigation into the influence of various socio-economic factors on student's performance.
+    - :snake:Python (NumPy, Pandas, scikit-learn and Matplotlib + seaborn packages).
+    - Exploratory data analysis, classification and regression.
+
 - Scientific computing:
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)
     - Design tool for the sizing of an airborne wind energy system (power kite) for a Martian habitat.
-    - :snake:Python (NumPy, SciPy, Matplotlib + seaborn packages).
+    - :snake:Python (NumPy, SciPy and Matplotlib + seaborn packages).
     - Computational modeling, optimisation, sexy flow diagram.
 
   - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)

@@ -2,7 +2,7 @@
 
 - Scientific computing:
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)
-    - Design tool for the sizing of an airborne wind energy system of a Martian habitat.
+    - Design tool for the sizing of an airborne wind energy system (power kite) for a Martian habitat.
     - :snake:Python (NumPy, SciPy, Matplotlib + seaborn packages).
     - Computational modeling, optimisation, sexy flow diagram.
 

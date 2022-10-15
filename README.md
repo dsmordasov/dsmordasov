@@ -2,7 +2,7 @@
 
 - Data Science:
   - [Drink and study](https://github.com/dsmordasov/ares_awesizer)
-    - An investigation into the influence of various socio-economic factors on student's performance.
+    - An investigation into the influence of various socio-economic factors on student's performance, for an 'Introduction to Machine Learning & Data Mining' course.
     - :snake:Python (NumPy, Pandas, scikit-learn and Matplotlib + seaborn packages).
     - Exploratory data analysis, classification and regression.
 

@@ -1,7 +1,7 @@
 ### Welcome to my GitHub, in which I showcase examples of my work (i.e. why I am the perfect hire for you).
 
 - Data Science:
-  - [Drink and study](https://github.com/dsmordasov/ares_awesizer)
+  - [Drink and study](https://github.com/dsmordasov/drink_and_study)
     - An investigation into the influence of various socio-economic factors on student's performance, for an 'Introduction to Machine Learning & Data Mining' course.
     - :snake:Python (NumPy, Pandas, scikit-learn, Matplotlib + seaborn packages and PyTorch wrapper code from professors).
     - Exploratory data analysis, classification and regression.

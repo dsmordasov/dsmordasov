@@ -4,7 +4,7 @@
   - [Drink and study](https://github.com/dsmordasov/drink_and_study)
     - An investigation into the influence of various socio-economic factors on student's performance, for an 'Introduction to Machine Learning & Data Mining' course.
     - :snake:Python (NumPy, Pandas, scikit-learn, Matplotlib + seaborn packages and PyTorch wrapper code from professors).
-    - Exploratory data analysis, classification and regression.
+    - Exploratory data analysis (feature extraction, statistics, principal component analysis, data visualisation), machine learning (artificial neural networks, linear and logistic regression, regularization, cross-validation).
 
 - Scientific computing:
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)

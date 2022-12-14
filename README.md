@@ -8,9 +8,9 @@
 
 - Scientific computing:
   - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
-    - A set of scripts for running computational fluid dynamics (CFD) simulations on the DTU HPC cluster, investigating a novel wind turbine design for regulating wind turbine wakes and improving wind farm yields. Includes a code for integrated wind turbine blade design with consequent evaluation in HAWC2S.
+    - A set of scripts for running computational fluid dynamics (CFD) simulations on the DTU HPC cluster, investigating a novel wind turbine design for regulating wind turbine wakes and improving wind farm yields.
     - :snake:Python (NumPy, Matplotlib and Xarray packages), along with PyWakeEllipSys CFD and HAWC2S aeroservoelastic code.
-    - CFD simulation set-up and execution on a Linux HPC cluster, automated data analysis and visualisation pipeline for the CFD results, insight extraction. 
+    - CFD simulation set-up and execution on a Linux HPC cluster, automated data analysis and visualisation pipeline for the CFD results, code for integrated wind turbine blade design with consequent evaluation in HAWC2S and output into a PyWakeEllipSys readable input, insight extraction. 
 
   - [My BSc thesis](https://github.com/dsmordasov/ares_awesizer)
     - Design tool for the sizing of an airborne wind energy system (power kite) for a Martian habitat.

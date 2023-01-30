@@ -1,13 +1,18 @@
 ### Welcome to my GitHub, in which I showcase examples of my work (i.e. why I am the perfect hire for you).
 
 - Data Science:
+  - [Book cataloguer](https://github.com/dsmordasov/book_cataloguer)
+    - An investigation into the world of computer vision, trying to extract a list of books from a picture of book spines on a shelf.
+    - :snake:Python (NumPy, OpenCV and PyTessaract packages).
+    - Computer vision segmentation, image pre-processing and OCR.
+     
   - [Drink and study](https://github.com/dsmordasov/drink_and_study)
     - An investigation into the influence of various socio-economic factors on student's performance, assignment for an 'Introduction to Machine Learning & Data Mining' MSc course.
-    - :snake:Python (NumPy, Pandas, scikit-learn, Matplotlib + seaborn packages and PyTorch wrapper code from professors).
+    - :snake:Python (NumPy, Pandas, scikit-learn, Matplotlib + seaborn and PyTorch packages).
     - Exploratory data analysis (feature extraction, statistics, principal component analysis, data visualisation), machine learning (artificial neural networks, linear and logistic regression, cross-validation), insight extraction.
 
 - Scientific computing:
-  - [My MSc Thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
+  - [My MSc thesis](https://github.com/dsmordasov/wake_diffusion_rotor)
     - A set of scripts for running computational fluid dynamics (CFD) simulations on the DTU HPC cluster, investigating a novel wind turbine design for regulating wind turbine wakes and improving wind farm yields.
     - :snake:Python (NumPy, Matplotlib and Xarray packages), along with PyWakeEllipSys (CFD) and HAWC2S (aeroservoelastic code).
     - PyWakeEllipSys simulation set-up and execution on a Linux HPC cluster, automated data analysis and visualisation pipeline for the CFD results, code for integrated wind turbine blade design with consequent evaluation in HAWC2S and output into a PyWakeEllipSys readable input, insight extraction. 

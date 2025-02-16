@@ -1,11 +1,6 @@
 ### Welcome to my GitHub, in which I showcase examples of my work (i.e. why I am the perfect hire for you).
 
-- Data Science:
-  - [Book cataloguer](https://github.com/dsmordasov/book_cataloguer)
-    - An investigation into the world of computer vision, trying to extract a list of books from a picture of book spines on a shelf.
-    - :snake:Python (NumPy, OpenCV and PyTessaract packages).
-    - Computer vision segmentation, image pre-processing and OCR.
-     
+- Data Science:     
   - [Drink and study](https://github.com/dsmordasov/drink_and_study)
     - An investigation into the influence of various socio-economic factors on student's performance, assignment for an 'Introduction to Machine Learning & Data Mining' MSc course.
     - :snake:Python (NumPy, Pandas, scikit-learn, Matplotlib + seaborn and PyTorch packages).
@@ -30,6 +25,11 @@
 
 <!--
 **dsmordasov/dsmordasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  - [Book cataloguer](https://github.com/dsmordasov/book_cataloguer)
+    - An investigation into the world of computer vision, trying to extract a list of books from a picture of book spines on a shelf.
+    - :snake:Python (NumPy, OpenCV and PyTessaract packages).
+    - Computer vision segmentation, image pre-processing and OCR.
 
 Here are some ideas to get you started:
 
